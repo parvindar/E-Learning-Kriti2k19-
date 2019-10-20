@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "850266095710",
+    "firebase_url": "https://courses-cdc91.firebaseio.com",
+    "project_id": "courses-cdc91",
+    "storage_bucket": "courses-cdc91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850266095710:android:8521ebe35adab802fdb4cf",
+        "android_client_info": {
+          "package_name": "com.ankuringale.courses"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850266095710-losaf4foe7e3jee6tj9t3aia3qoe6pd7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5-upn-vsWtA6Z43QrP08zi5j8JN0p_mY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850266095710-losaf4foe7e3jee6tj9t3aia3qoe6pd7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
